@@ -1,0 +1,6 @@
+interface:
+  display_name: "RayshineRen"
+  short_description: "RayshineRen technical style"
+  default_prompt: "Use $rayshineren to reason in RayshineRen's technical style, applying the bundled research profile, engineering playbook, and publication context."
+policy:
+  allow_implicit_invocation: true
